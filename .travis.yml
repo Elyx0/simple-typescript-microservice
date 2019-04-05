@@ -9,6 +9,8 @@ node_js:
 notifications:
   email: false
 
+script: npm run coveralls
+
 deploy:
   - provider: releases
     api_key: $GITHUB_TOKEN
