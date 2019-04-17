@@ -1,9 +1,6 @@
 
 [![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE)  [![Build Status](https://travis-ci.org/Elyx0/touchtunes.svg?branch=master)](https://travis-ci.org/Elyx0/touchtunes/)[![Known Vulnerabilities](https://snyk.io/test/npm/snyk/badge.svg)](https://snyk.io/synk/github/elyx0/touchtunes) [![Coverage Status](https://coveralls.io/repos/github/Elyx0/touchtunes/badge.svg?branch=master)](https://coveralls.io/github/Elyx0/touchtunes?branch=master)
 
-
-### Touchtunes test
-
 The code is build with [Typescript](https://www.typescriptlang.org/)
 
 #### Development
